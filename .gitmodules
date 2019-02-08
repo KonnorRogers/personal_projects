@@ -1,0 +1,6 @@
+[submodule "ruby/vps_cli"]
+	path = ruby/vps_cli
+	url = https://github.com/ParamagicDev/vps_cli.git
+[submodule "ruby/paramagic_chess"]
+	path = ruby/paramagic_chess
+	url = https://github.com/ParamagicDev/paramagic_chess.git
