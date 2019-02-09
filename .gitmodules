@@ -28,3 +28,69 @@
 [submodule "rails/rest_tester"]
 	path = rails/rest_tester
 	url = https://github.com/ParamagicDev/rest_tester.git
+[submodule "ruby/caesar_cipher"]
+	path = ruby/caesar_cipher
+	url = https://github.com/ParamagicDev/caesar_cipher.git
+[submodule "rails/sinatra/sinatra_cipher"]
+	path = rails/sinatra/sinatra_cipher
+	url = https://github.com/ParamagicDev/sinatra_cipher.git
+[submodule "rails/rest_search"]
+	path = rails/rest_search
+	url = https://github.com/ParamagicDev/rest_search.git
+[submodule "rails/private-events"]
+	path = rails/private-events
+	url = https://github.com/ParamagicDev/private-events.git
+[submodule "misc/ParamagicianUltiSnips"]
+	path = misc/ParamagicianUltiSnips
+	url = https://github.com/ParamagicDev/ParamagicianUltiSnips.git
+[submodule "misc/my-mintty-configs"]
+	path = misc/my-mintty-configs
+	url = https://github.com/ParamagicDev/my-mintty-configs.git
+[submodule "ruby/tic_tac_toe_gem"]
+	path = ruby/tic_tac_toe_gem
+	url = https://github.com/ParamagicDev/tic_tac_toe_gem.git
+[submodule "ruby/test_problems"]
+	path = ruby/test_problems
+	url = https://github.com/ParamagicDev/test_problems.git
+[submodule "ruby/knight_travails"]
+	path = ruby/knight_travails
+	url = https://github.com/ParamagicDev/knight_travails.git
+[submodule "ruby/binary_search_tree"]
+	path = ruby/binary_search_tree
+	url = https://github.com/ParamagicDev/binary_search_tree.git
+[submodule "ruby/linked_list"]
+	path = ruby/linked_list
+	url = https://github.com/ParamagicDev/linked_list.git
+[submodule "ruby/merge_sort"]
+	path = ruby/merge_sort
+	url = https://github.com/ParamagicDev/merge_sort.git
+[submodule "ruby/recursion-fibonacci"]
+	path = ruby/recursion-fibonacci
+	url = https://github.com/ParamagicDev/recursion-fibonacci.git
+[submodule "ruby/hangman_game"]
+	path = ruby/hangman_game
+	url = https://github.com/ParamagicDev/hangman_game.git
+[submodule "ruby/event_manager"]
+	path = ruby/event_manager
+	url = https://github.com/ParamagicDev/event_manager.git
+[submodule "ruby/mastermind-game"]
+	path = ruby/mastermind-game
+	url = https://github.com/ParamagicDev/mastermind-game.git
+[submodule "rails/rails-test-app"]
+	path = rails/rails-test-app
+	url = https://github.com/ParamagicDev/rails-test-app.git
+[submodule "html_css_js/rock-paper-scissors"]
+	path = html_css_js/rock-paper-scissors
+	url = https://github.com/ParamagicDev/rock-paper-scissors.git
+[submodule "html_css_js/calculator"]
+	path = html_css_js/calculator
+	url = https://github.com/ParamagicDev/calculator.git
+[submodule "html_css_js/sketch-pad"]
+	path = html_css_js/sketch-pad
+	url = https://github.com/ParamagicDev/sketch-pad.git
+[submodule "html_css_js/google-homepage"]
+	path = html_css_js/google-homepage
+	url = https://github.com/ParamagicDev/google-homepage.git
+[submodule "ruby/ruby-debugging-project"]
+	path = ruby/ruby-debugging-project
+	url = https://github.com/ParamagicDev/ruby-debugging-project.git
