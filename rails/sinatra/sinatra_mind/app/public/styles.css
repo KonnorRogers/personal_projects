@@ -1,0 +1,23 @@
+body {
+  font: 1em/150% Helvetica, Arial, sans-serif;
+  padding: 0.5em;
+  margin: auto;
+  max-width: 50em;
+  text-align: center
+}
+
+.hints {
+  margin: 0 auto;
+  width: 14em;
+  text-align: left;
+}
+
+#feedback-wrapped {
+  position: relative;
+}
+
+.feedback {
+  width: 45%;
+  display: inline-block;
+  border: 1px solid black;
+}

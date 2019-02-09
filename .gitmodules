@@ -4,3 +4,27 @@
 [submodule "ruby/paramagic_chess"]
 	path = ruby/paramagic_chess
 	url = https://github.com/ParamagicDev/paramagic_chess.git
+[submodule "rails/rails_sample_app"]
+	path = rails/rails_sample_app
+	url = https://github.com/ParamagicDev/rails_sample_app.git
+[submodule "rails/sinatra_mind"]
+	path = rails/sinatra_mind
+	url = https://github.com/ParamagicDev/sinatra_mind.git
+[submodule "rails/web_guesser"]
+	path = rails/web_guesser
+	url = https://github.com/ParamagicDev/web_guesser.git
+[submodule "rails/clubhouse"]
+	path = rails/clubhouse
+	url = https://github.com/ParamagicDev/clubhouse.git
+[submodule "rails/toy_app"]
+	path = rails/toy_app
+	url = https://github.com/ParamagicDev/toy_app.git
+[submodule "rails/micro-reddit"]
+	path = rails/micro-reddit
+	url = https://github.com/ParamagicDev/micro-reddit.git
+[submodule "rails/re-former"]
+	path = rails/re-former
+	url = https://github.com/ParamagicDev/re-former.git
+[submodule "rails/rest_tester"]
+	path = rails/rest_tester
+	url = https://github.com/ParamagicDev/rest_tester.git
