@@ -8,10 +8,10 @@
 	path = rails/rails_sample_app
 	url = https://github.com/ParamagicDev/rails_sample_app.git
 [submodule "rails/sinatra/sinatra_mind"]
-	path = rails/sinatra_mind
+	path = rails/sinatra/sinatra_mind
 	url = https://github.com/ParamagicDev/sinatra_mind.git
 [submodule "rails/sinatra/web_guesser"]
-	path = rails/web_guesser
+	path = rails/sinatra/web_guesser
 	url = https://github.com/ParamagicDev/web_guesser.git
 [submodule "rails/clubhouse"]
 	path = rails/clubhouse
